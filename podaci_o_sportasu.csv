@@ -1,0 +1,501 @@
+athlete_id,sport,age,weight_kg,height_cm,training_hours_per_week,product_1,product_2,product_3,performance_score
+581,Running,39,69,172,19,Shrimp,Cottage Cheese,Walnuts,87
+567,Running,40,85,197,18,Tomato,Blueberries,Apple,53
+2,Football,27,61,163,5,Blueberries,Shrimp,Salmon,95
+235,Cycling,37,65,193,16,Sunflower Seeds,Apple,Broccoli,67
+571,Cycling,18,63,178,10,Oatmeal,Brown Rice,Walnuts,78
+459,Weightlifting,33,74,169,19,Shrimp,Avocado,Olive Oil,83
+515,Running,19,67,158,17,Bell Peppers,Protein Bar,Bell Peppers,89
+59,CrossFit,24,109,167,17,Whole Wheat Bread,Chicken Breast,Spinach,95
+472,Basketball,19,107,183,15,Beans,Tuna,Sweet Potato,46
+343,Cycling,29,82,159,13,Pasta,Quinoa,Salmon,65
+914,Swimming,20,89,154,17,Chia Seeds,Kefir,Tuna,79
+128,CrossFit,26,99,156,13,Whole Wheat Bread,Avocado,Carrots,84
+783,Basketball,29,98,199,11,Olive Oil,Kefir,Sweet Potato,61
+179,Football,39,77,155,13,Chia Seeds,Chia Seeds,Cod,47
+396,Tennis,27,105,182,3,Avocado,Milk,Oatmeal,69
+853,Cycling,36,105,184,7,Protein Bar,Olive Oil,Tuna,65
+327,CrossFit,29,59,195,18,Skim Milk,Tuna,Milk,51
+835,Football,18,102,151,16,Protein Bar,Brown Rice,Spinach,97
+375,Cycling,32,87,155,5,Peanut Butter,Cheddar Cheese,Peanut Butter,51
+619,Running,28,75,203,14,Sunflower Seeds,Orange Juice,Tomato,42
+423,CrossFit,28,92,190,10,Broccoli,Almonds,Milk,95
+219,CrossFit,32,60,198,8,Greek Yogurt,Spinach,Chia Seeds,71
+822,Cycling,19,106,165,13,Cod,Bell Peppers,Skim Milk,77
+257,Running,25,86,187,17,Milk,Cheddar Cheese,Spinach,70
+496,Swimming,19,71,152,12,Oatmeal,Bell Peppers,Salmon,41
+466,Basketball,23,63,150,10,Chia Seeds,Peanut Butter,Greek Yogurt,48
+846,Basketball,21,74,167,13,Sunflower Seeds,Pasta,Olive Oil,76
+671,Football,34,54,200,4,Apple,Blueberries,Chia Seeds,67
+280,Weightlifting,31,100,167,18,Greek Yogurt,Olive Oil,Sweet Potato,75
+686,Weightlifting,29,56,200,10,Shrimp,Sweet Potato,Kefir,41
+252,Running,34,77,178,10,Cottage Cheese,Milk,Peanut Butter,82
+592,Football,37,60,164,8,Bell Peppers,Salmon,Banana,45
+195,Tennis,30,67,160,16,Quinoa,Whole Wheat Bread,Cottage Cheese,100
+705,Cycling,27,62,174,10,Chicken Breast,Broccoli,Sunflower Seeds,78
+809,Running,24,55,198,6,Cheddar Cheese,Shrimp,Tuna,89
+405,Cycling,27,54,161,16,Cheddar Cheese,Peanut Butter,Salmon,61
+323,Football,19,53,180,8,Kefir,Bell Peppers,Sweet Potato,65
+344,Swimming,32,82,197,16,Oatmeal,Chicken Breast,Blueberries,47
+878,Basketball,31,58,152,16,Walnuts,Milk,Protein Bar,58
+285,Swimming,25,106,182,9,Bell Peppers,Chia Seeds,Pasta,61
+979,Cycling,37,58,167,17,Quinoa,Blueberries,Cod,67
+479,Running,23,85,165,19,Beans,Oatmeal,Tomato,44
+379,CrossFit,24,50,168,5,Pasta,Cottage Cheese,Skim Milk,42
+178,Weightlifting,31,72,204,10,Skim Milk,Blueberries,Chia Seeds,52
+49,Football,30,77,158,5,Whole Wheat Bread,Sweet Potato,Milk,57
+76,Swimming,30,106,154,16,Spinach,Protein Bar,Greek Yogurt,98
+134,Cycling,18,60,182,16,Quinoa,Cheddar Cheese,Quinoa,71
+425,Running,31,84,156,6,Quinoa,Shrimp,Cottage Cheese,64
+690,Cycling,27,87,178,16,Broccoli,Shrimp,Apple,84
+910,Tennis,24,57,188,6,Orange Juice,Bell Peppers,Carrots,74
+947,Cycling,22,64,163,14,Sunflower Seeds,Banana,Almonds,81
+885,Weightlifting,30,83,190,12,Eggs,Greek Yogurt,Sunflower Seeds,97
+155,Swimming,32,67,192,15,Beans,Avocado,Carrots,87
+865,Weightlifting,37,103,166,10,Chicken Breast,Cheddar Cheese,Chia Seeds,99
+107,Basketball,21,61,189,5,Cottage Cheese,Tuna,Chia Seeds,99
+145,Cycling,33,87,161,5,Whole Wheat Bread,Almonds,Shrimp,53
+849,CrossFit,36,64,183,8,Avocado,Skim Milk,Blueberries,57
+44,Football,36,97,170,8,Chicken Breast,Milk,Chia Seeds,74
+744,Running,24,96,162,6,Greek Yogurt,Avocado,Banana,98
+389,Swimming,23,102,171,5,Cheddar Cheese,Sweet Potato,Broccoli,45
+409,Football,38,106,195,14,Olive Oil,Sunflower Seeds,Chia Seeds,62
+195,Football,28,76,154,9,Beans,Tuna,Sweet Potato,81
+792,Running,21,88,199,10,Tuna,Orange Juice,Cheddar Cheese,57
+133,Tennis,29,80,168,4,Kefir,Brown Rice,Blueberries,93
+833,Football,30,101,202,16,Broccoli,Almonds,Carrots,81
+321,CrossFit,21,52,173,8,Sunflower Seeds,Banana,Protein Bar,71
+411,Cycling,32,60,157,4,Brown Rice,Blueberries,Almonds,64
+274,Cycling,28,90,182,6,Cottage Cheese,Cheddar Cheese,Kefir,86
+756,Weightlifting,22,82,155,15,Oatmeal,Tuna,Milk,54
+265,Tennis,28,104,154,13,Tuna,Pasta,Sunflower Seeds,91
+586,Football,38,66,189,14,Skim Milk,Brown Rice,Shrimp,81
+25,Running,30,75,189,7,Chicken Breast,Bell Peppers,Whole Wheat Bread,44
+235,Swimming,37,102,185,5,Olive Oil,Protein Bar,Chia Seeds,42
+737,CrossFit,18,85,168,13,Cod,Tuna,Milk,55
+616,Swimming,20,65,199,12,Quinoa,Broccoli,Tomato,58
+393,Basketball,26,78,190,17,Broccoli,Pasta,Blueberries,58
+18,Basketball,28,98,194,8,Chia Seeds,Greek Yogurt,Avocado,66
+58,Football,36,102,195,14,Whole Wheat Bread,Tomato,Peanut Butter,91
+682,Tennis,20,59,192,3,Kefir,Salmon,Bell Peppers,61
+567,CrossFit,21,93,151,15,Avocado,Walnuts,Eggs,57
+806,Football,30,88,202,19,Cheddar Cheese,Peanut Butter,Kefir,99
+225,Cycling,22,55,204,20,Apple,Kefir,Pasta,74
+599,Cycling,26,73,157,13,Beans,Brown Rice,Walnuts,57
+861,Swimming,27,85,189,18,Tuna,Shrimp,Chia Seeds,47
+220,Football,22,51,204,12,Chia Seeds,Eggs,Greek Yogurt,76
+712,Basketball,38,86,197,17,Banana,Milk,Milk,97
+212,Swimming,28,59,194,13,Salmon,Bell Peppers,Greek Yogurt,73
+544,Weightlifting,20,63,163,15,Quinoa,Almonds,Tomato,88
+513,Cycling,34,87,167,7,Kefir,Banana,Tuna,51
+713,Weightlifting,37,65,160,8,Cod,Oatmeal,Salmon,41
+262,Basketball,29,107,162,18,Cod,Cheddar Cheese,Carrots,68
+486,Football,21,93,185,5,Oatmeal,Cod,Sunflower Seeds,53
+127,CrossFit,39,66,190,3,Almonds,Brown Rice,Kefir,48
+815,Cycling,33,77,205,10,Avocado,Tuna,Broccoli,59
+891,Basketball,33,100,167,5,Oatmeal,Cheddar Cheese,Spinach,89
+490,Weightlifting,32,83,186,12,Protein Bar,Shrimp,Brown Rice,42
+567,Weightlifting,34,64,155,7,Cod,Olive Oil,Chicken Breast,60
+320,Swimming,23,55,188,15,Chicken Breast,Cod,Chicken Breast,52
+23,Running,33,103,168,6,Skim Milk,Orange Juice,Carrots,52
+740,Running,25,54,166,11,Sunflower Seeds,Bell Peppers,Pasta,76
+403,Cycling,33,88,205,17,Bell Peppers,Skim Milk,Almonds,53
+291,CrossFit,33,91,162,3,Milk,Chicken Breast,Tuna,50
+202,Basketball,33,72,164,10,Chia Seeds,Salmon,Broccoli,51
+376,Football,37,81,173,13,Olive Oil,Broccoli,Orange Juice,63
+456,Swimming,21,69,190,10,Broccoli,Peanut Butter,Chicken Breast,63
+309,Tennis,23,82,173,9,Orange Juice,Milk,Beans,71
+423,Swimming,35,53,186,14,Banana,Quinoa,Whole Wheat Bread,67
+499,Tennis,26,78,177,8,Whole Wheat Bread,Milk,Tuna,51
+797,Basketball,31,54,162,13,Olive Oil,Brown Rice,Pasta,57
+651,Swimming,33,53,169,14,Spinach,Pasta,Broccoli,44
+209,Tennis,23,110,159,13,Avocado,Avocado,Whole Wheat Bread,78
+829,Tennis,31,65,188,9,Pasta,Tuna,Chicken Breast,56
+281,Cycling,38,62,203,16,Banana,Kefir,Carrots,90
+723,Football,28,79,194,19,Eggs,Greek Yogurt,Salmon,56
+330,Tennis,25,103,160,16,Almonds,Sweet Potato,Milk,98
+54,Running,35,108,181,19,Skim Milk,Broccoli,Eggs,53
+113,Tennis,30,93,152,5,Brown Rice,Tuna,Kefir,84
+677,Running,20,89,170,9,Cod,Greek Yogurt,Broccoli,92
+529,Football,37,53,167,12,Kefir,Olive Oil,Whole Wheat Bread,67
+554,CrossFit,24,90,201,5,Almonds,Peanut Butter,Sunflower Seeds,56
+995,Running,32,106,168,3,Greek Yogurt,Walnuts,Milk,82
+11,Running,24,91,171,6,Tomato,Broccoli,Shrimp,82
+298,Weightlifting,24,93,154,11,Apple,Sunflower Seeds,Eggs,67
+956,Football,31,89,151,15,Shrimp,Spinach,Spinach,77
+516,Basketball,39,78,158,9,Avocado,Beans,Orange Juice,50
+564,CrossFit,39,108,190,8,Carrots,Avocado,Beans,74
+8,Swimming,21,107,193,4,Eggs,Chicken Breast,Oatmeal,68
+837,Swimming,29,61,187,18,Skim Milk,Whole Wheat Bread,Chia Seeds,69
+879,CrossFit,29,106,170,16,Orange Juice,Whole Wheat Bread,Whole Wheat Bread,63
+157,Swimming,37,51,161,12,Chia Seeds,Orange Juice,Oatmeal,57
+157,Basketball,36,100,154,11,Protein Bar,Banana,Sweet Potato,68
+567,CrossFit,33,109,188,13,Orange Juice,Chicken Breast,Spinach,59
+283,Cycling,20,82,203,18,Eggs,Quinoa,Skim Milk,94
+509,CrossFit,27,51,170,17,Tomato,Oatmeal,Kefir,42
+188,Cycling,30,52,158,8,Brown Rice,Chia Seeds,Brown Rice,75
+236,CrossFit,28,79,195,11,Pasta,Brown Rice,Oatmeal,77
+801,CrossFit,32,90,189,14,Cheddar Cheese,Chia Seeds,Greek Yogurt,42
+900,CrossFit,19,84,163,10,Eggs,Apple,Skim Milk,57
+253,CrossFit,30,69,161,9,Salmon,Blueberries,Broccoli,99
+587,Swimming,25,75,173,18,Avocado,Sweet Potato,Sweet Potato,72
+608,Football,32,67,165,15,Beans,Bell Peppers,Broccoli,48
+768,CrossFit,39,107,178,13,Tuna,Tuna,Eggs,96
+429,Running,31,101,200,14,Greek Yogurt,Cottage Cheese,Broccoli,87
+631,CrossFit,26,59,156,6,Walnuts,Skim Milk,Kefir,99
+842,Tennis,26,54,195,15,Eggs,Kefir,Chia Seeds,65
+145,Basketball,39,104,186,14,Tomato,Protein Bar,Bell Peppers,91
+55,Basketball,34,87,180,19,Olive Oil,Almonds,Tomato,61
+440,Basketball,29,58,153,6,Apple,Quinoa,Eggs,68
+677,Football,36,81,189,10,Bell Peppers,Protein Bar,Apple,99
+884,Football,27,55,193,7,Orange Juice,Beans,Avocado,83
+185,Weightlifting,31,83,191,15,Salmon,Tomato,Bell Peppers,87
+306,Basketball,35,84,155,9,Whole Wheat Bread,Peanut Butter,Shrimp,93
+531,Running,40,108,182,9,Cod,Olive Oil,Greek Yogurt,61
+740,Football,32,56,189,6,Whole Wheat Bread,Orange Juice,Salmon,52
+63,CrossFit,20,63,166,6,Pasta,Cottage Cheese,Chicken Breast,97
+114,Swimming,33,87,198,5,Bell Peppers,Sunflower Seeds,Almonds,76
+667,Swimming,30,59,159,10,Chicken Breast,Chia Seeds,Blueberries,75
+605,Basketball,35,101,183,14,Bell Peppers,Peanut Butter,Olive Oil,48
+148,Weightlifting,33,101,181,13,Spinach,Sunflower Seeds,Banana,86
+536,CrossFit,35,109,159,19,Cheddar Cheese,Sunflower Seeds,Chia Seeds,86
+121,Cycling,30,56,204,16,Chicken Breast,Skim Milk,Beans,54
+640,Basketball,21,56,195,13,Salmon,Cheddar Cheese,Protein Bar,90
+454,Swimming,24,109,169,9,Sweet Potato,Sunflower Seeds,Tuna,61
+210,Tennis,23,61,173,19,Chicken Breast,Sunflower Seeds,Beans,94
+212,Swimming,28,70,197,18,Bell Peppers,Quinoa,Cheddar Cheese,93
+605,Tennis,26,51,155,20,Sweet Potato,Walnuts,Bell Peppers,45
+629,Swimming,21,74,186,12,Walnuts,Almonds,Banana,51
+156,Swimming,18,61,169,16,Chicken Breast,Blueberries,Orange Juice,87
+691,Tennis,19,58,193,20,Sweet Potato,Greek Yogurt,Pasta,54
+952,CrossFit,36,53,186,19,Peanut Butter,Avocado,Oatmeal,79
+660,CrossFit,21,101,192,13,Greek Yogurt,Avocado,Bell Peppers,77
+578,Football,18,65,184,4,Shrimp,Pasta,Shrimp,62
+724,Basketball,39,62,195,9,Cheddar Cheese,Shrimp,Cod,96
+217,Tennis,25,108,173,3,Broccoli,Greek Yogurt,Whole Wheat Bread,82
+945,Tennis,29,68,192,16,Walnuts,Salmon,Cheddar Cheese,100
+54,CrossFit,22,66,202,6,Beans,Salmon,Blueberries,55
+890,Cycling,34,89,203,11,Eggs,Quinoa,Brown Rice,53
+768,Swimming,39,103,183,13,Broccoli,Chicken Breast,Quinoa,64
+50,CrossFit,39,105,192,20,Walnuts,Brown Rice,Shrimp,91
+303,Swimming,36,51,159,8,Brown Rice,Orange Juice,Apple,84
+533,Tennis,38,68,152,14,Broccoli,Cottage Cheese,Pasta,54
+904,Tennis,25,93,154,16,Skim Milk,Eggs,Peanut Butter,63
+475,Basketball,21,84,182,11,Bell Peppers,Greek Yogurt,Spinach,66
+22,CrossFit,39,87,168,4,Greek Yogurt,Salmon,Bell Peppers,58
+725,Football,31,98,181,12,Brown Rice,Kefir,Chia Seeds,78
+871,Cycling,33,76,188,18,Sunflower Seeds,Protein Bar,Milk,92
+935,Basketball,36,94,170,13,Skim Milk,Eggs,Salmon,40
+66,Football,34,94,161,8,Protein Bar,Chicken Breast,Broccoli,48
+721,Basketball,29,58,180,19,Beans,Eggs,Banana,51
+812,Basketball,38,72,175,9,Almonds,Blueberries,Carrots,83
+121,Weightlifting,32,59,162,9,Walnuts,Skim Milk,Chia Seeds,87
+823,CrossFit,19,78,193,12,Sweet Potato,Cottage Cheese,Milk,57
+945,Running,27,65,167,12,Beans,Pasta,Sunflower Seeds,89
+391,Tennis,37,57,173,14,Olive Oil,Skim Milk,Cheddar Cheese,79
+362,Basketball,24,52,153,14,Milk,Salmon,Oatmeal,58
+491,Basketball,28,95,192,19,Salmon,Blueberries,Carrots,92
+222,Weightlifting,20,99,194,4,Whole Wheat Bread,Protein Bar,Protein Bar,53
+733,Swimming,26,80,172,18,Skim Milk,Orange Juice,Cheddar Cheese,48
+656,Swimming,36,74,194,10,Blueberries,Pasta,Almonds,98
+399,Basketball,21,83,188,4,Carrots,Almonds,Banana,62
+75,Cycling,18,107,156,14,Greek Yogurt,Peanut Butter,Cottage Cheese,70
+785,CrossFit,37,69,161,6,Banana,Orange Juice,Spinach,89
+560,Running,22,70,172,11,Oatmeal,Almonds,Salmon,41
+642,Football,39,60,167,10,Protein Bar,Milk,Broccoli,90
+206,Running,21,107,191,18,Chicken Breast,Salmon,Chicken Breast,79
+399,Football,31,76,157,18,Oatmeal,Milk,Kefir,78
+723,Tennis,31,73,167,4,Chia Seeds,Pasta,Peanut Butter,90
+441,Football,26,59,157,10,Sunflower Seeds,Walnuts,Blueberries,63
+329,Basketball,24,68,156,19,Tuna,Greek Yogurt,Bell Peppers,95
+233,Football,21,80,167,16,Pasta,Cheddar Cheese,Bell Peppers,88
+840,Cycling,32,92,173,9,Sweet Potato,Olive Oil,Bell Peppers,60
+749,CrossFit,19,104,181,4,Skim Milk,Tomato,Cheddar Cheese,82
+355,Basketball,25,86,179,5,Chia Seeds,Almonds,Tuna,97
+507,Weightlifting,37,72,160,16,Broccoli,Sweet Potato,Shrimp,58
+62,Weightlifting,28,93,160,14,Beans,Banana,Walnuts,65
+442,Running,27,70,171,7,Olive Oil,Protein Bar,Kefir,91
+522,Tennis,23,107,182,9,Kefir,Oatmeal,Almonds,66
+56,Weightlifting,34,57,197,20,Skim Milk,Banana,Sunflower Seeds,88
+373,Basketball,33,70,155,4,Olive Oil,Banana,Whole Wheat Bread,84
+575,Weightlifting,30,52,169,9,Eggs,Broccoli,Tomato,74
+168,Football,36,74,158,15,Eggs,Milk,Chicken Breast,93
+23,Football,18,98,181,9,Protein Bar,Beans,Beans,52
+160,Basketball,32,100,189,12,Cottage Cheese,Broccoli,Spinach,80
+343,Basketball,22,99,181,10,Walnuts,Shrimp,Spinach,45
+98,Cycling,21,83,158,4,Eggs,Broccoli,Orange Juice,56
+401,Weightlifting,39,90,180,4,Kefir,Bell Peppers,Quinoa,80
+661,Swimming,34,67,197,13,Orange Juice,Sweet Potato,Kefir,79
+333,Swimming,34,97,196,13,Greek Yogurt,Cottage Cheese,Banana,76
+681,Basketball,28,70,166,11,Kefir,Sweet Potato,Greek Yogurt,43
+548,CrossFit,31,75,178,17,Spinach,Tomato,Cod,52
+774,Running,20,58,197,20,Salmon,Orange Juice,Sunflower Seeds,56
+470,Swimming,36,93,167,10,Brown Rice,Sunflower Seeds,Sweet Potato,59
+216,Swimming,32,98,166,11,Peanut Butter,Orange Juice,Beans,87
+792,Cycling,25,70,187,9,Cottage Cheese,Eggs,Sunflower Seeds,58
+34,Basketball,36,74,189,6,Avocado,Apple,Oatmeal,71
+951,Weightlifting,25,108,172,14,Spinach,Cheddar Cheese,Cottage Cheese,49
+439,Tennis,23,53,167,9,Cheddar Cheese,Bell Peppers,Kefir,47
+821,Football,38,101,160,20,Walnuts,Eggs,Peanut Butter,60
+559,Basketball,19,91,197,11,Spinach,Eggs,Orange Juice,48
+244,Swimming,38,86,158,3,Chia Seeds,Quinoa,Eggs,68
+833,Tennis,26,91,178,7,Beans,Avocado,Eggs,71
+594,Cycling,29,105,188,10,Beans,Sunflower Seeds,Brown Rice,72
+204,Football,19,72,161,18,Cod,Cottage Cheese,Greek Yogurt,85
+768,Running,26,97,196,14,Milk,Sweet Potato,Protein Bar,63
+315,Running,21,59,162,10,Broccoli,Bell Peppers,Tuna,47
+293,Basketball,37,80,201,19,Protein Bar,Whole Wheat Bread,Cod,94
+320,Running,32,104,190,6,Bell Peppers,Sunflower Seeds,Sweet Potato,42
+78,Swimming,34,63,200,16,Tomato,Pasta,Brown Rice,69
+477,Cycling,32,61,202,10,Beans,Cheddar Cheese,Chia Seeds,94
+273,Football,38,69,179,18,Bell Peppers,Bell Peppers,Almonds,48
+817,Football,37,76,179,19,Cheddar Cheese,Shrimp,Apple,62
+480,Running,32,55,152,8,Cod,Tomato,Chia Seeds,76
+901,Weightlifting,36,59,175,18,Almonds,Oatmeal,Greek Yogurt,70
+915,Running,20,79,188,16,Tomato,Tomato,Tuna,76
+622,Swimming,36,100,177,19,Whole Wheat Bread,Sunflower Seeds,Walnuts,60
+361,Cycling,18,77,161,3,Cheddar Cheese,Broccoli,Blueberries,99
+440,Weightlifting,20,89,179,7,Walnuts,Milk,Milk,94
+368,Running,26,72,151,5,Shrimp,Chia Seeds,Blueberries,48
+639,Cycling,37,63,203,4,Greek Yogurt,Whole Wheat Bread,Tomato,71
+512,Cycling,34,107,186,5,Beans,Bell Peppers,Cottage Cheese,63
+205,Football,35,74,179,7,Sunflower Seeds,Orange Juice,Cod,75
+159,CrossFit,30,97,175,13,Kefir,Broccoli,Avocado,50
+423,Swimming,25,80,194,14,Walnuts,Salmon,Shrimp,49
+821,Running,22,72,155,12,Olive Oil,Chicken Breast,Chicken Breast,67
+467,Running,35,91,156,6,Cottage Cheese,Tuna,Eggs,57
+934,Tennis,25,58,174,5,Oatmeal,Eggs,Beans,96
+18,Running,30,107,196,13,Beans,Protein Bar,Carrots,90
+760,Swimming,25,92,191,17,Tuna,Greek Yogurt,Protein Bar,65
+261,Weightlifting,25,79,199,4,Cheddar Cheese,Blueberries,Apple,99
+245,Swimming,27,71,200,16,Chia Seeds,Greek Yogurt,Bell Peppers,49
+488,Cycling,21,85,170,16,Peanut Butter,Cod,Spinach,100
+127,Cycling,23,70,159,12,Almonds,Tomato,Beans,86
+941,Basketball,35,88,152,13,Salmon,Salmon,Cod,99
+500,CrossFit,30,58,192,6,Eggs,Apple,Tuna,52
+586,Tennis,20,110,196,7,Salmon,Cottage Cheese,Oatmeal,72
+183,Tennis,26,98,166,14,Almonds,Sweet Potato,Walnuts,46
+449,Tennis,36,98,151,4,Salmon,Tomato,Chia Seeds,65
+851,Tennis,18,71,169,11,Whole Wheat Bread,Beans,Chicken Breast,87
+364,Swimming,39,63,204,15,Apple,Greek Yogurt,Pasta,44
+234,Basketball,24,68,193,13,Sunflower Seeds,Tomato,Cottage Cheese,76
+398,Tennis,31,109,200,12,Spinach,Cod,Beans,69
+122,Weightlifting,37,52,159,12,Banana,Quinoa,Greek Yogurt,48
+104,Cycling,32,80,192,17,Avocado,Blueberries,Kefir,46
+52,Running,28,93,172,16,Shrimp,Milk,Carrots,44
+83,Weightlifting,31,80,160,13,Avocado,Sunflower Seeds,Chia Seeds,93
+307,Swimming,31,53,203,6,Eggs,Bell Peppers,Oatmeal,97
+517,Running,37,89,159,17,Cottage Cheese,Spinach,Chia Seeds,93
+777,Football,36,107,175,5,Cod,Tomato,Oatmeal,96
+478,Football,33,62,201,9,Quinoa,Quinoa,Avocado,59
+106,CrossFit,40,92,195,20,Carrots,Pasta,Brown Rice,100
+783,Cycling,35,86,155,19,Shrimp,Oatmeal,Tuna,75
+612,Cycling,25,69,190,18,Greek Yogurt,Eggs,Sunflower Seeds,65
+401,Running,39,54,187,20,Broccoli,Sunflower Seeds,Eggs,63
+749,Swimming,36,80,155,5,Peanut Butter,Orange Juice,Walnuts,92
+245,Tennis,21,59,201,8,Beans,Peanut Butter,Sweet Potato,99
+58,Running,21,106,204,16,Blueberries,Bell Peppers,Beans,92
+113,Swimming,35,87,186,4,Sweet Potato,Kefir,Walnuts,91
+127,Basketball,37,83,190,15,Cod,Shrimp,Skim Milk,59
+642,Football,34,62,155,7,Pasta,Kefir,Pasta,87
+898,CrossFit,32,81,179,10,Avocado,Carrots,Banana,55
+793,Running,27,92,191,15,Pasta,Almonds,Avocado,96
+350,Running,38,85,187,11,Spinach,Protein Bar,Chia Seeds,47
+687,Weightlifting,28,98,157,14,Greek Yogurt,Tuna,Shrimp,95
+286,Running,23,61,191,14,Carrots,Tomato,Sweet Potato,97
+599,Cycling,37,75,170,12,Salmon,Avocado,Spinach,70
+44,Cycling,38,70,202,18,Kefir,Shrimp,Almonds,57
+960,CrossFit,38,105,160,7,Bell Peppers,Milk,Spinach,64
+304,Cycling,21,52,187,19,Sweet Potato,Broccoli,Almonds,92
+958,Tennis,23,81,185,6,Quinoa,Cheddar Cheese,Shrimp,47
+243,Cycling,19,102,176,11,Chicken Breast,Sweet Potato,Oatmeal,88
+200,Basketball,36,107,157,13,Shrimp,Tomato,Cheddar Cheese,50
+270,CrossFit,19,64,173,10,Beans,Tomato,Bell Peppers,84
+369,CrossFit,26,106,184,17,Quinoa,Pasta,Sunflower Seeds,93
+732,CrossFit,26,88,161,14,Skim Milk,Cheddar Cheese,Oatmeal,48
+750,Running,28,58,185,10,Beans,Chia Seeds,Olive Oil,62
+741,Running,31,110,165,11,Avocado,Spinach,Greek Yogurt,81
+120,Running,40,84,189,9,Orange Juice,Chia Seeds,Walnuts,83
+346,Basketball,21,103,150,6,Orange Juice,Salmon,Quinoa,44
+992,CrossFit,31,57,166,18,Kefir,Cheddar Cheese,Whole Wheat Bread,45
+722,Cycling,35,96,153,13,Sunflower Seeds,Eggs,Almonds,83
+423,CrossFit,36,52,162,15,Kefir,Kefir,Quinoa,49
+198,Running,25,97,158,5,Beans,Shrimp,Orange Juice,59
+73,Tennis,27,57,181,4,Banana,Kefir,Blueberries,61
+915,Football,20,96,156,18,Walnuts,Shrimp,Kefir,44
+402,Basketball,34,87,194,12,Skim Milk,Avocado,Beans,50
+331,Basketball,30,106,158,14,Oatmeal,Sweet Potato,Quinoa,69
+744,Running,22,101,179,16,Broccoli,Sunflower Seeds,Skim Milk,96
+640,Running,29,87,169,8,Salmon,Avocado,Greek Yogurt,48
+929,Running,31,87,171,6,Chia Seeds,Whole Wheat Bread,Pasta,86
+424,Cycling,26,67,177,9,Orange Juice,Sunflower Seeds,Whole Wheat Bread,52
+975,Football,24,57,180,12,Avocado,Whole Wheat Bread,Salmon,58
+83,Tennis,30,82,199,14,Olive Oil,Walnuts,Brown Rice,96
+746,Basketball,26,96,184,15,Blueberries,Tomato,Banana,92
+361,Tennis,31,78,195,5,Shrimp,Bell Peppers,Carrots,59
+465,Running,28,85,193,12,Walnuts,Skim Milk,Cheddar Cheese,64
+298,Basketball,18,56,195,11,Chicken Breast,Tomato,Walnuts,94
+208,Tennis,25,96,179,5,Milk,Cheddar Cheese,Cheddar Cheese,70
+912,Football,33,60,151,9,Tuna,Almonds,Kefir,94
+196,Football,19,97,195,16,Skim Milk,Cod,Walnuts,63
+238,CrossFit,37,53,157,6,Walnuts,Cheddar Cheese,Tomato,94
+755,CrossFit,21,89,185,18,Whole Wheat Bread,Salmon,Cod,80
+540,Cycling,29,57,176,17,Eggs,Protein Bar,Carrots,81
+510,Swimming,38,64,157,14,Almonds,Beans,Milk,48
+361,CrossFit,25,56,186,16,Kefir,Almonds,Eggs,49
+526,CrossFit,29,62,153,9,Protein Bar,Tuna,Sunflower Seeds,81
+370,Football,19,105,152,8,Avocado,Oatmeal,Protein Bar,47
+859,CrossFit,19,71,162,13,Cheddar Cheese,Broccoli,Cottage Cheese,85
+450,Running,38,64,175,19,Orange Juice,Protein Bar,Olive Oil,69
+659,CrossFit,29,66,152,20,Oatmeal,Sweet Potato,Cheddar Cheese,92
+269,Weightlifting,39,57,161,17,Walnuts,Protein Bar,Chicken Breast,97
+841,Football,33,52,169,13,Avocado,Pasta,Olive Oil,49
+522,Football,25,76,201,6,Carrots,Avocado,Bell Peppers,87
+491,Weightlifting,28,76,190,20,Broccoli,Orange Juice,Olive Oil,78
+184,Weightlifting,38,96,185,13,Salmon,Cottage Cheese,Sweet Potato,65
+823,Running,31,94,200,18,Eggs,Milk,Carrots,72
+36,Tennis,24,71,162,7,Shrimp,Eggs,Tomato,88
+912,Weightlifting,33,51,172,9,Sunflower Seeds,Tuna,Walnuts,60
+847,CrossFit,27,77,184,3,Greek Yogurt,Olive Oil,Chicken Breast,76
+178,Cycling,34,57,187,17,Cod,Shrimp,Kefir,73
+160,Weightlifting,38,60,159,13,Sweet Potato,Apple,Shrimp,73
+479,Cycling,31,94,200,7,Greek Yogurt,Cottage Cheese,Kefir,75
+990,Football,28,82,185,8,Cottage Cheese,Almonds,Almonds,49
+813,Swimming,22,54,151,12,Cod,Greek Yogurt,Carrots,61
+474,Cycling,24,76,180,9,Cottage Cheese,Salmon,Oatmeal,55
+47,Cycling,29,66,156,4,Tuna,Salmon,Olive Oil,61
+213,Basketball,28,73,203,16,Avocado,Olive Oil,Peanut Butter,54
+417,Football,33,76,184,17,Brown Rice,Carrots,Sunflower Seeds,76
+421,CrossFit,34,74,190,10,Chia Seeds,Eggs,Quinoa,82
+655,CrossFit,21,85,159,7,Quinoa,Chia Seeds,Milk,43
+234,Basketball,28,68,161,9,Carrots,Orange Juice,Almonds,44
+85,Weightlifting,28,101,176,12,Beans,Brown Rice,Brown Rice,90
+873,Football,36,84,152,20,Cottage Cheese,Banana,Orange Juice,51
+408,Football,31,61,169,18,Chicken Breast,Protein Bar,Shrimp,64
+87,Weightlifting,20,68,194,19,Shrimp,Avocado,Apple,64
+690,Weightlifting,30,86,196,12,Sweet Potato,Blueberries,Chia Seeds,75
+272,Football,26,90,151,12,Spinach,Brown Rice,Milk,69
+475,Football,29,57,198,19,Sunflower Seeds,Oatmeal,Shrimp,46
+17,Weightlifting,37,72,199,19,Walnuts,Chia Seeds,Cod,79
+755,Running,18,86,164,16,Peanut Butter,Peanut Butter,Whole Wheat Bread,53
+568,Cycling,40,65,194,16,Walnuts,Pasta,Sweet Potato,72
+380,Basketball,19,80,162,15,Blueberries,Broccoli,Tomato,40
+280,Running,29,70,179,12,Cod,Skim Milk,Skim Milk,61
+248,Basketball,20,82,199,10,Protein Bar,Cod,Beans,86
+379,Swimming,19,94,153,11,Skim Milk,Avocado,Tomato,66
+856,Football,19,52,202,14,Chia Seeds,Spinach,Cheddar Cheese,71
+653,Basketball,27,103,163,6,Apple,Walnuts,Skim Milk,71
+670,Running,19,51,165,7,Greek Yogurt,Cottage Cheese,Brown Rice,60
+671,Cycling,31,67,167,14,Peanut Butter,Sunflower Seeds,Milk,100
+309,Cycling,40,81,183,5,Blueberries,Avocado,Brown Rice,41
+482,Weightlifting,31,90,202,12,Bell Peppers,Sunflower Seeds,Apple,71
+163,Football,31,90,200,18,Tuna,Cod,Salmon,44
+637,CrossFit,29,62,204,5,Chicken Breast,Bell Peppers,Spinach,84
+207,Cycling,39,72,176,16,Skim Milk,Sunflower Seeds,Chicken Breast,90
+184,Swimming,40,62,179,9,Sunflower Seeds,Whole Wheat Bread,Cheddar Cheese,94
+678,Cycling,27,74,161,11,Milk,Blueberries,Sweet Potato,89
+868,Weightlifting,37,99,168,11,Carrots,Chicken Breast,Spinach,46
+332,Basketball,23,86,165,7,Tomato,Tomato,Almonds,67
+390,Cycling,19,103,169,19,Kefir,Milk,Tomato,75
+132,Cycling,19,100,197,18,Tomato,Kefir,Avocado,72
+405,Basketball,38,104,192,6,Cheddar Cheese,Bell Peppers,Beans,64
+745,Basketball,22,76,194,4,Chicken Breast,Milk,Apple,47
+93,Swimming,33,73,159,7,Tuna,Greek Yogurt,Cod,66
+32,Tennis,24,91,160,4,Cod,Broccoli,Milk,69
+867,CrossFit,39,75,186,13,Avocado,Whole Wheat Bread,Chicken Breast,70
+648,CrossFit,33,77,187,10,Quinoa,Blueberries,Pasta,43
+643,CrossFit,39,92,200,9,Tuna,Tuna,Oatmeal,50
+231,Running,19,109,204,19,Avocado,Blueberries,Quinoa,48
+713,Running,31,53,155,17,Banana,Shrimp,Olive Oil,73
+89,Football,38,54,186,20,Quinoa,Cottage Cheese,Carrots,73
+393,Cycling,36,106,170,15,Almonds,Oatmeal,Quinoa,73
+603,CrossFit,25,94,154,4,Kefir,Orange Juice,Banana,67
+732,Weightlifting,22,109,157,17,Banana,Pasta,Shrimp,44
+508,Cycling,18,95,175,9,Sweet Potato,Tuna,Salmon,46
+866,Weightlifting,19,85,179,14,Blueberries,Salmon,Cod,78
+467,Running,30,67,181,16,Olive Oil,Shrimp,Chia Seeds,65
+710,Football,28,52,176,13,Carrots,Olive Oil,Avocado,67
+741,Tennis,33,105,192,13,Tuna,Kefir,Whole Wheat Bread,86
+182,Cycling,23,61,185,5,Blueberries,Carrots,Cottage Cheese,88
+185,CrossFit,24,66,166,11,Blueberries,Carrots,Chia Seeds,40
+90,Swimming,37,91,188,16,Sunflower Seeds,Salmon,Chicken Breast,88
+409,Swimming,36,52,168,6,Shrimp,Broccoli,Chia Seeds,72
+923,Basketball,38,93,163,4,Pasta,Blueberries,Chicken Breast,74
+312,Running,23,70,171,13,Almonds,Blueberries,Carrots,41
+492,Cycling,21,53,202,10,Cottage Cheese,Protein Bar,Pasta,43
+164,Running,37,76,181,6,Broccoli,Cheddar Cheese,Pasta,46
+700,Running,21,94,177,8,Avocado,Eggs,Peanut Butter,74
+104,CrossFit,35,94,197,13,Whole Wheat Bread,Banana,Walnuts,84
+898,Football,40,101,200,19,Banana,Oatmeal,Spinach,62
+68,Football,23,65,191,3,Chicken Breast,Eggs,Oatmeal,77
+587,CrossFit,30,99,159,12,Apple,Spinach,Pasta,97
+125,Tennis,38,58,162,7,Apple,Whole Wheat Bread,Peanut Butter,85
+581,Running,28,96,197,18,Chia Seeds,Salmon,Pasta,41
+363,Tennis,24,81,167,8,Banana,Spinach,Beans,54
+753,Running,29,75,194,11,Brown Rice,Protein Bar,Peanut Butter,42
+387,Tennis,31,89,202,3,Olive Oil,Sweet Potato,Protein Bar,57
+528,Swimming,36,72,155,6,Shrimp,Spinach,Chia Seeds,55
+705,Weightlifting,24,99,151,6,Orange Juice,Chicken Breast,Quinoa,59
+434,Swimming,21,94,203,4,Apple,Walnuts,Cheddar Cheese,83
+990,Swimming,25,61,205,16,Walnuts,Walnuts,Whole Wheat Bread,52
+845,Tennis,24,89,194,11,Tomato,Olive Oil,Olive Oil,99
+725,Tennis,32,62,178,11,Whole Wheat Bread,Blueberries,Sunflower Seeds,75
+900,Weightlifting,22,107,183,12,Walnuts,Almonds,Bell Peppers,59
+368,Cycling,22,60,186,10,Skim Milk,Chia Seeds,Kefir,88
+491,Weightlifting,26,74,168,5,Greek Yogurt,Protein Bar,Quinoa,97
+484,Swimming,37,73,161,8,Beans,Skim Milk,Quinoa,74
+322,Weightlifting,36,82,192,15,Quinoa,Olive Oil,Cheddar Cheese,47
+784,Basketball,30,101,159,15,Brown Rice,Tomato,Carrots,72
+787,Running,24,87,164,6,Sweet Potato,Salmon,Cheddar Cheese,59
+224,Tennis,38,63,162,5,Banana,Salmon,Shrimp,74
+36,Weightlifting,31,63,193,13,Quinoa,Spinach,Quinoa,96
+537,Weightlifting,28,70,187,19,Pasta,Tuna,Eggs,93
+449,CrossFit,20,89,179,8,Peanut Butter,Beans,Pasta,90
+526,Running,31,106,166,5,Avocado,Cottage Cheese,Orange Juice,89
+166,CrossFit,24,104,169,20,Broccoli,Oatmeal,Avocado,71
+244,Basketball,30,54,155,13,Chicken Breast,Eggs,Chicken Breast,53
+977,Running,37,93,202,17,Orange Juice,Skim Milk,Sweet Potato,72
+954,Weightlifting,19,57,172,19,Banana,Pasta,Eggs,53
+795,Cycling,40,75,167,8,Blueberries,Tomato,Cottage Cheese,59
+160,Football,34,106,171,6,Sunflower Seeds,Sunflower Seeds,Banana,73
+91,CrossFit,21,92,157,5,Milk,Quinoa,Oatmeal,72
+198,Cycling,27,53,193,8,Brown Rice,Avocado,Bell Peppers,75
+838,Weightlifting,26,62,157,7,Chia Seeds,Brown Rice,Apple,98
+950,Cycling,38,53,179,8,Chicken Breast,Cod,Walnuts,95
+47,Cycling,34,51,170,13,Walnuts,Quinoa,Bell Peppers,70
+866,Running,22,104,181,8,Pasta,Quinoa,Oatmeal,54
+598,Running,32,95,199,19,Cod,Tuna,Greek Yogurt,85
+415,Basketball,38,73,157,17,Tuna,Almonds,Chicken Breast,95
+441,Weightlifting,19,51,185,11,Almonds,Apple,Beans,97
+860,Tennis,29,83,183,12,Blueberries,Broccoli,Oatmeal,77
+797,Swimming,29,68,193,7,Oatmeal,Milk,Quinoa,50
+332,CrossFit,28,78,160,19,Cottage Cheese,Orange Juice,Brown Rice,72
+916,Football,39,85,158,18,Chia Seeds,Peanut Butter,Kefir,84
+477,Weightlifting,24,54,168,16,Sweet Potato,Cheddar Cheese,Tuna,92
+752,CrossFit,26,74,151,4,Oatmeal,Whole Wheat Bread,Chicken Breast,67
+861,Cycling,31,106,195,12,Peanut Butter,Carrots,Spinach,92
+226,Basketball,21,56,158,6,Kefir,Pasta,Cheddar Cheese,73
+885,Weightlifting,22,76,153,19,Blueberries,Spinach,Milk,45
+674,Running,24,88,198,17,Quinoa,Almonds,Kefir,88
+982,Basketball,39,66,180,15,Cod,Quinoa,Oatmeal,49
+826,Basketball,23,91,158,5,Cheddar Cheese,Blueberries,Cottage Cheese,65
+918,Swimming,29,101,175,19,Sweet Potato,Walnuts,Carrots,97
+307,Swimming,25,108,180,9,Sweet Potato,Peanut Butter,Carrots,76
+397,Tennis,38,67,161,6,Brown Rice,Olive Oil,Tomato,77
+669,Cycling,39,51,185,18,Eggs,Spinach,Milk,87
+335,Weightlifting,32,61,178,3,Oatmeal,Quinoa,Oatmeal,65
+567,Football,25,107,177,6,Sweet Potato,Shrimp,Milk,53
+538,Running,19,94,163,18,Brown Rice,Carrots,Banana,53
+727,Swimming,21,51,166,13,Cod,Chia Seeds,Oatmeal,85
+698,Football,30,56,163,13,Beans,Oatmeal,Walnuts,52
+694,Basketball,28,103,177,15,Broccoli,Oatmeal,Chia Seeds,45
+20,Tennis,36,79,196,19,Quinoa,Carrots,Quinoa,65
+548,Tennis,36,55,161,6,Walnuts,Shrimp,Sweet Potato,83
+7,Cycling,22,66,163,3,Cheddar Cheese,Whole Wheat Bread,Sweet Potato,56
+146,Weightlifting,39,58,153,7,Tuna,Cheddar Cheese,Peanut Butter,70
+330,Football,31,69,157,16,Brown Rice,Quinoa,Blueberries,80
+140,Running,27,98,198,3,Olive Oil,Sunflower Seeds,Walnuts,91
+452,Weightlifting,36,76,193,12,Sweet Potato,Cottage Cheese,Olive Oil,60
+82,Weightlifting,28,58,195,16,Whole Wheat Bread,Kefir,Olive Oil,88
+421,Football,36,59,158,5,Orange Juice,Broccoli,Quinoa,49
+425,Weightlifting,19,51,153,18,Cod,Greek Yogurt,Eggs,48
